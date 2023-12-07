@@ -1,4 +1,4 @@
-![소설탭](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/9bc48fd6-4726-43a6-a127-1dcaa77dad54)# Used-Books-Kiosk
+# Used-Books-Kiosk
 > 2023년 2학기 동국대학교 융합프로그래밍2 개인 키오스크 프로젝트
 
 </br>
