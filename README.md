@@ -14,11 +14,11 @@
 </br>
 
 ## 💻 프로젝트 결과
-| | | | |
-|---|---|---|---|
+| | | |
+|---|---|---|
 |![소설탭](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/849d6a3d-dc9b-4c57-aad2-b9e27e9a9f38)|![사회과학탭](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/838d14e9-0105-46f8-937c-320d6c50a08e)|![에세이탭](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/0b616f08-e639-474c-b95f-cfa64900932e)|
 |소설 탭|사회과학 탭|에세이 탭|
 |![기타탭](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/8c91581a-25e0-4d97-b239-286210951c96)|![상세보기 다이얼로그](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/16461fa0-0fa1-4b3f-bc26-c5c66bb99a05)|![판매할책들](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/ea344529-3fd0-4de8-8218-a14736e14d90)|
 |기타 탭|상세보기 다이얼로그|팔 책 목록(장바구니)|
 
-
+</br>
