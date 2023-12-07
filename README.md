@@ -1,4 +1,4 @@
-# Used-Books-Kiosk
+![소설탭](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/9bc48fd6-4726-43a6-a127-1dcaa77dad54)# Used-Books-Kiosk
 > 2023년 2학기 동국대학교 융합프로그래밍2 개인 키오스크 프로젝트
 
 </br>
@@ -14,9 +14,5 @@
 </br>
 
 ## 💻 프로젝트 결과
-| | | |
-| -------- | ------- | ------- |
-|![image](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/de1558a9-2578-454f-a528-ec406c873ce4)|![image](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/15bb9e36-cbb1-4c18-8595-48bde4a55165)|![image](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/5182eec4-0087-484d-9850-6c718a568b45)|
-|소설 탭|사회과학 탭|에세이 탭|
-|![image](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/85c7f8c2-ce3a-4aed-a078-fddf6740c2ac)|![상세보기 다이얼로그](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/9f55b00c-d9c5-4291-b15d-a124a9296571)|![판매할책들](https://github.com/EunJeongmin/Used-Books-Kiosk/assets/125721217/a397fc45-7fec-488b-8906-f579b7ad1bee)|
-|기타 탭|상세보기 다이얼로그|팔 책 장바구니에 추가|
+
+
