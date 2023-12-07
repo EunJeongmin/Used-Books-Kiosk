@@ -64,7 +64,7 @@ public class EssayTab extends JPanel {
         }
 
         // 탭 1 생성
-        tabbedPane.addTab("사회과학", tab3Panel);
+        tabbedPane.addTab("에세이", tab3Panel);
     }
 
     // 주어진 Book 객체를 기반으로 각 탭에 이미지와 책 정보를 표시하는 JPanel을 생성
